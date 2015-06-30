@@ -1,0 +1,69 @@
+body {
+  display: block;
+  margin: 0;
+  font-family: 'Rokkitt', serif;
+}
+
+#top1 {
+  display: block;
+  background-color: #2e4849;
+  width: 100%;
+}
+
+#bottom1 {
+  display: block;
+  background-color: #526563;
+  width: 100%;
+  position: relative;
+    bottom: 5px;
+}
+
+h1{
+  margin: 0.5em 0.6em;
+  color: #2e4849;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+p {
+  margin: 0.5em 1.3em;
+  color: #526563;
+  line-height: 150%;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.horizontal_dotted_line{
+  background-image: url("dash-horizontal.png");
+  background-repeat: repeat-x;
+  color: white;
+  margin: 2.5cm .7cm;
+}
+
+.center{
+  text-align: center;
+}
+.padding{
+  padding-bottom: 1cm;
+}
+
+.brown{
+  color: #714f2b;
+  font-family: sans-serif;
+  line-height: 200%;
+}
+
+h2 {
+  color: #709b4b;
+  font-family: sans-serif;
+  line-height: 220%;
+  font-size: 1.2em;
+}
+
+hr {
+  color: #DAD5D2;
+  background: #A6968A;
+  width: 75%;
+  opacity: .5;
+  margin-top: 3cm;
+}
