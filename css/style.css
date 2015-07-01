@@ -138,3 +138,24 @@ hr {
   line-height: 200%;
   margin: 0 25px;
 }
+
+.blue {
+  background-color: #C9ECF7;
+}
+
+.faq {
+  padding-top: 2cm;
+  width: 50%;
+}
+ul {
+   list-style-image: url('plus-bullet.png');
+   color: #714f2b;
+   font-family: 'Rokkitt', serif;
+   font-size: 25px;
+   font-weight: bolder;
+   letter-spacing: -.8px;
+}
+li {
+  padding: 25px 0;
+  text-align: left;
+}
